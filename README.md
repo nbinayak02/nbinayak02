@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binayak-2&label=Profile%20views&color=0e75b6&style=flat" alt="binayak-2" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=binayak-2" alt="binayak-2" /></a> </p>
+
 
 - 🔭 I’m currently studying **Computer Science and Information Technology**
 
