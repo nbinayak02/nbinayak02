@@ -15,7 +15,7 @@
 <p align="left">
   <a href="https://linkedin.com/in/binayak2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="binayak2" height="30" width="40" /></a>
   <a href="https://fb.com/binayak02" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="binayak02" height="30" width="40" /></a>
-<a href="https://instagram.com/binayak___2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binayak__2" height="30" width="40" /></a>
+<a href="https://instagram.com/binayak_2_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="binayak__2" height="30" width="40" /></a>
 <a href="https://twitter.com/binayak_2" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="binayak_2" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCJgJT4wGRUFj0d3dskvtK2g" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="thesourcecode_2" height="30" width="40" /></a>
 </p>
