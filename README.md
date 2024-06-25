@@ -1,5 +1,5 @@
 <h1 align="center">Hi, Namaste, I'm Binayak.</h1>
-<h3 align="center">A CS and IT enthusiastic learner from Nepal.</h3>
+<h3 align="center">A CS and IT enthusiast from Nepal.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=binayak-2&label=Profile%20views&color=0e75b6&style=flat" alt="binayak-2" /> </p>
 
