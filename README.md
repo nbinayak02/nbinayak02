@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently studying **Computer Science and Information Technology**
 
-- 💬 Ask me about: **C, C++, DSA with C**
-
 - 📫 You can reach me: **binayak0128@gmail.com**
 <br>
 <h3 align="left">Connect with me:</h3>
@@ -22,7 +20,10 @@
 <br>
 
 <br>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binayak-2&show_icons=true&locale=en&layout=compact" alt="binayak-2" /></p>
+<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binayak-2&show_icons=true&locale=en&langs_count=8" alt="binayak-2" /></p> -->
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayak-2&langs_count=8"></p>
+
+
 
 
 
