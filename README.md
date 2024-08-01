@@ -21,7 +21,7 @@
 
 <br>
 <!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binayak-2&show_icons=true&locale=en&langs_count=8" alt="binayak-2" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayak-2&langs_count=8"></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=binayak-2&langs_count=8&exclude_repo=Java-Projects"></p>
 
 
 
