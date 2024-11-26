@@ -17,10 +17,11 @@
 <br>
 
 <br>
-<!-- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=binayak-2&show_icons=true&locale=en&langs_count=8" alt="binayak-2" /></p> -->
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbinayak02&langs_count=8&exclude_repo=Java-Projects"></p>
 
-<p><a href="https://roadmap.sh/u/nbinayak02"><img src="https://roadmap.sh/card/tall/66ffdf4dfb4be684dba8bc04?variant=light" alt="roadmap.sh"/></a></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbinayak02&langs_count=10&exclude_repo=Java-Projects&hide=hack,kotlin">
+
+
+<img align="center" src="https://roadmap.sh/card/tall/66ffdf4dfb4be684dba8bc04?variant=light" alt="roadmap.sh"/>
 
 
 
