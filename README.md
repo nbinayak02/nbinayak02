@@ -21,8 +21,6 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nbinayak02&langs_count=10&exclude_repo=Java-Projects&hide=hack,kotlin">
 
 
-<img align="center" src="https://roadmap.sh/card/tall/66ffdf4dfb4be684dba8bc04?variant=light" alt="roadmap.sh"/>
-
 
 
 
