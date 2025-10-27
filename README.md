@@ -18,7 +18,6 @@
 
 <br>
 
-![nbinayak02's Streak](https://github-readme-streak-stats.herokuapp.com/?user=nbinayak02&theme=default&hide_border=true)
 
 
 ![nbinayak02's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nbinayak02&theme=default&show_icons=true&hide_border=true&layout=compact)
